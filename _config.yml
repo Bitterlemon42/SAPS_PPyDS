@@ -1,0 +1,8 @@
+# Book settings
+title: PPyDS
+author: Reinhold von Schwerin, Daniel Schaudt
+logo: saps_logo.png
+
+#latex:
+#  latex_documents:
+#    targetname: book.tex
